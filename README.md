@@ -1,1 +1,2 @@
-# JSPlatformer-MythD-vRL-4
+# JSPlatformer
+JS Platformer for DIG 3480C
